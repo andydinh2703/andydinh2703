@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Hi! My name is Andy Dinh ✋🏻
 
 I’m currently a Junior at Hobart and William Smith Colleges studying Computer Science and Data Analytics. I’m just a Vietnamese kid who doesn’t know much about this field, but always curious to apply data-driven decision makings into daily life. My philosophy is doing things that make me move forward, and embrace getting lost as a part of the process, because good things take time. 
